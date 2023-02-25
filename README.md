@@ -1,0 +1,1 @@
+A notes app made using Django and React
