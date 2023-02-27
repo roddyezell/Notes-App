@@ -1,20 +1,19 @@
 {
   "notes": [
     {
-        "id": 1,
-        "body": "Todays Agenda\n\n- Walk Dog\n- Feed fish\n- Play basketball\n- Eat a salad",
-        "updated": "2021-07-14T13:49:02.078653Z"
+      "id": 1,
+      "body": "Todays Agenda\n\n- Walk Dog\n- Feed fish\n- Play basketball\n- Eat a salad",
+      "updated": "2023-02-27T17:14:13.380Z"
     },
     {
-        "id": 2,
-        "body": "Bob from bar down the \n\n- Take out trash\n- Eat food",
-        "updated": "2021-07-13T20:43:18.550058Z"
+      "body": "Test 4",
+      "updated": "2023-02-27T17:23:30.356Z",
+      "id": 2
     },
     {
-        "id": 3,
-        "body": "Wash car",
-        "updated": "2021-07-13T19:46:12.187306Z"
+      "body": "test",
+      "updated": "2023-02-27T17:23:20.562Z",
+      "id": 3
     }
-]
-
+  ]
 }
