@@ -1,0 +1,19 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "body": "Todays Agenda\n\n- Walk Dog\n- Feed fish\n- Play basketball\n- Eat a salad",
+      "updated": "2023-02-27T19:10:01.723Z"
+    },
+    {
+      "body": "testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest\n\nother stuff",
+      "updated": "2023-02-27T17:43:16.503Z",
+      "id": 3
+    },
+    {
+      "body": "New note\n\nWash everything twice",
+      "updated": "2023-02-27T19:09:59.982Z",
+      "id": 4
+    }
+  ]
+}
